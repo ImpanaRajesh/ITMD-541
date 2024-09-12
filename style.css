@@ -66,3 +66,9 @@ body {
     background-color: #fff;
     color: #b03333;
 }
+
+.main-content {
+    width: 75%;
+    padding: 40px;
+    overflow-y: auto;
+}
