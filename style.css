@@ -118,3 +118,38 @@ body {
     margin-right: 20px;
     border-radius: 5px;
 }
+
+.fun h2 {
+    margin-left: 30px;
+    font-size: 33px;
+    margin-top: 20px;
+}
+
+.fun-image {
+    max-width: 25%;
+    margin-top: 20px;
+    margin-right: 80px;
+}
+
+.experience p{
+    align-content: center;
+}
+
+.fun h2{
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.funfact {
+    display: flex;
+}
+
+.funfact p{
+    margin-top: 110px;
+    font-size: 18px;
+    font-style: italic;
+    width: 30%;
+    display: block;
+    margin-left: 20px;
+    margin-right: 110px;
+}
