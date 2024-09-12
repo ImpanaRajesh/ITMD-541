@@ -72,3 +72,17 @@ body {
     padding: 40px;
     overflow-y: auto;
 }
+
+.about-section {
+    background-color: #ffffff;
+    padding: 50px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-section h2 {
+    font-size: 35px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+    font-style: italic;
+}
