@@ -44,11 +44,17 @@
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
-
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 #flex-section3 .tags ul {
-
+	display: flex;
+	flex-wrap: wrap;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
 /* end Flexbox Part 3 */
@@ -57,7 +63,10 @@
 /* Grid Part 1 */
 
 #grid-section1 .grid {
-
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-rows: 100px 100px;
+	grid-gap: 20px;
 }
 
 /* end Grid Part 1 */
